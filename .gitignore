@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+.env
+*.log
+checkpoints/*
+!checkpoints/pong_selfplay_latest.zip
